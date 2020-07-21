@@ -1,10 +1,10 @@
 # Employee Directory
-  ![GitHub repo size](https://img.shields.io/github/repo-size/prabjitv/budget-tracker?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/prabjitv/budget-tracker?color=green&style=for-the-badge) ![GitHub top language](https://img.shields.io/github/languages/top/prabjitv/budget-tracker?color=red&style=for-the-badge)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/prabjitv/employee-directory?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/prabjitv/employee-directory?color=green&style=for-the-badge) ![GitHub top language](https://img.shields.io/github/languages/top/prabjitv/employee-directory?color=red&style=for-the-badge)
 
 ---
 
 ## Description:
-This React application makes use of class components and component state to render each of the expenses entered into a table. The total cost is also rendered.
+This React application makes use of functional components and state to render each of the expenses entered into a table. The total cost is also rendered.
 
 ---
 
@@ -27,9 +27,9 @@ To use the application, go to __[this link](https://prabjitv.github.io/budget-tr
 ---
 
 ## Future Improvements:
-* Fully format the front end of the application
-* Save expenses to local storage
-* Implement the use of Hooks and Context to practice those new skills.
+* Upgrade UI/UX of Application
+* Add CRUD routing
+* Implement greater use of React Compontents, Hooks, and Context as needed. to 
 
 ---
 
