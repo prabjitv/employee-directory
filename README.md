@@ -22,8 +22,8 @@ None is required.
 ---
 
 ## Usage:
-To use the application, go to __[this link](https://prabjitv.github.io/budget-tracker/)__.
-
+A demo of the application in use can be seen here:
+![Employee Tracker](Example-of-Deployment.gif)
 ---
 
 ## Future Improvements:
