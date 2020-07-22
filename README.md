@@ -4,7 +4,7 @@
 ---
 
 ## Description:
-This React application makes use of functional components and state to render each of the expenses entered into a table. The total cost is also rendered.
+This React application makes use of functional components, React Context, state, and Hooks to render employees from a pre-filled list. Additionaly, users are able to sort by name, ciy, or location.
 
 ---
 
